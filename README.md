@@ -16,7 +16,7 @@ Em conjunto, essas tecnologias permitem a criação de um jogo simples, mas func
 
 
 COMO JOGAR
-Após abrir a aplicação em seu navegador os jogos ja vão começar, para passar pelos obstaculos é necessario apertar o botão espaço ou seta para cima. Escolhendo uma dessas formas é possivel estar sair por ai com seu dinossauro pulando por arovres atrás de bater incontáveis recordes de pontuações.
+Após abrir a aplicação em seu navegador os jogos ja vão começar, para passar pelos obstaculos é necessario apertar o botão espaço ou seta para cima. Escolhendo uma dessas formas é possivel estar sair por ai com seu dinossauro pulando por arvores atrás de bater incontáveis recordes de pontuações.
 
 
 ass: ssMarques
